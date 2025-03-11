@@ -9,7 +9,7 @@ const Usercard = () => {
   const name = "Abc421";
   const email = "abc1123@gmail.com";
   const phone = "+91 6729374xxx";
-  const address = "123 Main Street, Cityville, Country";
+  const address = "123 Banglore,India ";
 
   return (
     <div className="max-w-sm bg-white shadow-lg rounded-2xl p-4 border border-gray-200">
